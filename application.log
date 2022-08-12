@@ -1,0 +1,17 @@
+2022-08-11 17:20:12,468  INFO [TestNG-test=Test-2] SauceDemoMaven:40 - Browser is maximized
+2022-08-11 17:20:12,296  INFO [TestNG-test=Test-1] SauceDemoMaven:40 - Browser is maximized
+2022-08-11 17:20:12,931  INFO [TestNG-test=Test-2] SauceDemoMaven:47 - ENter user name
+2022-08-11 17:20:12,934  INFO [TestNG-test=Test-3] SauceDemoMaven:47 - ENter user name
+2022-08-11 17:20:12,968  INFO [TestNG-test=Test-1] SauceDemoMaven:47 - ENter user name
+2022-08-11 17:20:13,297  INFO [TestNG-test=Test-2] SauceDemoMaven:50 - Enter password
+2022-08-11 17:20:13,380  INFO [TestNG-test=Test-3] SauceDemoMaven:50 - Enter password
+2022-08-11 17:20:13,416  INFO [TestNG-test=Test-1] SauceDemoMaven:50 - Enter password
+2022-08-11 17:20:13,770  INFO [TestNG-test=Test-2] SauceDemoMaven:53 - Click on login button
+2022-08-11 17:20:13,916  INFO [TestNG-test=Test-3] SauceDemoMaven:53 - Click on login button
+2022-08-11 17:20:13,927  INFO [TestNG-test=Test-1] SauceDemoMaven:53 - Click on login button
+2022-08-11 17:20:15,287  INFO [TestNG-test=Test-2] SauceDemoMaven:59 - Take a screenshot
+2022-08-11 17:20:15,547  INFO [TestNG-test=Test-3] SauceDemoMaven:59 - Take a screenshot
+2022-08-11 17:20:15,596  INFO [TestNG-test=Test-1] SauceDemoMaven:59 - Take a screenshot
+2022-08-11 17:20:16,095  INFO [TestNG-test=Test-3] SauceDemoMaven:65 - Browser is closed
+2022-08-11 17:20:16,666  INFO [TestNG-test=Test-2] SauceDemoMaven:65 - Browser is closed
+2022-08-11 17:20:17,148  INFO [TestNG-test=Test-1] SauceDemoMaven:65 - Browser is closed
